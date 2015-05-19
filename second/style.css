@@ -1,0 +1,49 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+.rightbar {
+	height: 70%;
+	width: 34%;
+	position: fixed;
+	right: 0;
+	top: 0;
+	float: right;
+	background-color: green;
+}
+
+.middlebar {
+	height: 100%;
+	width: 35%;
+	position: fixed;
+	top: 0;
+	right: 33.5%;
+	float: right;
+	background-color: lightblue;
+}
+
+.leftbar {
+	height: 100%;
+	width: 33.3%;
+	float: left;
+	background-color: blue;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.rightbottombar {
+	height: 20%;
+	width: 33.5%;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	background-color: red;
+	color: white;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 0;
+	display: center;
+}
