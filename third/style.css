@@ -1,0 +1,78 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	background-color: white;
+}
+
+.littlesquare {
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	left: 1%;
+	top: 4%;
+	z-index: 3;
+	margin-left: 2%;
+
+}
+
+.topbar {
+	height: 15%;
+	width: 100%;
+	background-color: gray;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.whitetextbar {
+	height: 40%;
+	width: 100%;
+	background-color: white;
+	color: 000;
+	text-align: center;
+
+}
+
+.thirdbar {
+	height: 15%;
+	width: 100%;
+	background-color: blue;
+	position: fixed;
+	right: 0;
+}
+
+.fourthbar {
+	height: 15%;
+	width: 100%;
+	background-color: green;
+	position: fixed;
+	right: 0;
+	bottom: 155px;
+}
+
+.fifthbar {
+	height: 15%;
+	width: 100%;
+	background-color: yellowgreen;
+	position: fixed;
+	right: 0;
+	bottom: 73px;
+
+}
+
+.sixthbar {
+	height: 15%;
+	width: 100%;
+	background-color: yellow;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+}
+
+
+
+
+
+
+
